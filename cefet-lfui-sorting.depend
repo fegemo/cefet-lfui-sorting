@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1447453034 source:c:\users\flavio\documents\github\cefet-lfui-sorting\heapsort.c
+	"ordenacao.h"
+
+1447458384 c:\users\flavio\documents\github\cefet-lfui-sorting\ordenacao.h
+
+1447453029 source:c:\users\flavio\documents\github\cefet-lfui-sorting\insercao.c
+	"ordenacao.h"
+
+1447455647 source:c:\users\flavio\documents\github\cefet-lfui-sorting\main.cpp
+	<sys/types.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"ordenacao.h"
+
+1447456395 source:c:\users\flavio\documents\github\cefet-lfui-sorting\selecao.c
+	"selecao.h"
+
+1447455387 source:c:\users\flavio\documents\github\cefet-lfui-sorting\quicksort.c
+	"ordenacao.h"
+
+1447456388 c:\users\flavio\documents\github\cefet-lfui-sorting\selecao.h
+
+1447453034 source:c:\users\flavio\documents\github\cefet-lfui-sorting\heapsort.cpp
+	"ordenacao.h"
+
+1447453029 source:c:\users\flavio\documents\github\cefet-lfui-sorting\insercao.cpp
+	"ordenacao.h"
+
+1447455387 source:c:\users\flavio\documents\github\cefet-lfui-sorting\quicksort.cpp
+	"ordenacao.h"
+
+1447458394 source:c:\users\flavio\documents\github\cefet-lfui-sorting\selecao.cpp
+	"ordenacao.h"
+
